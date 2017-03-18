@@ -2,5 +2,4 @@ theme: jekyll-theme-cayman
 name : LinkStudio
 email : linkstudio@sina.com
 github : linkstudio2017
-project-name: LinkStudio
-page-header: LinkStudio
+project.name: LinkStudio
